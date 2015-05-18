@@ -4,3 +4,29 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+.container {
+    width: 960px;
+    margin: 20 auto;
+}
+
+.main-header {
+    background-image: url(../img/banner.jpg);
+    text-align: center;
+}
+
+.main-header__avatar {
+    display: block;
+    margin: 0 auto;
+    width: 18%;
+    border-radius: 999px;
+    border: 3px solid white;
+    box-shadow: 0 0px 2px 1px rgba(0,0,0,0.2);
+}
+
+main-header h1 {
+    font-weight: 300;
+    font-size: 50px;
+    font-family: 'Open Sans','helvetica',arial,sans-serif;
+    text-shadow: 0 1px rgba(0,0,0,0.3);
+}
