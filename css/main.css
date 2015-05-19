@@ -10,7 +10,6 @@ body {
     margin: 0 auto;
     margin-top: 50px;
     padding: 1px;
-    background-color: #989898;
 }
 
 .container p {
@@ -66,4 +65,16 @@ body {
 .main-nav ul li a:hover {
     text-decoration: underline;
 }
+
+.info-section {
+    background-color: #fff;
+    margin-top: -20px;
+}
+
+.whatido__skill-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
 
