@@ -41,3 +41,24 @@ body {
     font-family: 'Open Sans','helvetica',arial,sans-serif;
     text-shadow: 0 1px rgba(0,0,0,0.3);
 }
+
+.main-nav {
+    background-color: #333;
+}
+
+.main-nav ul li {
+    margin: 15px 10px;
+}
+
+.main-nav ul li a {
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.main-nav ul li a:hover {
+    text-decoration: underline;
+}
+
