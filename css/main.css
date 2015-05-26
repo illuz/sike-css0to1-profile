@@ -71,10 +71,27 @@ body {
     margin-top: -20px;
 }
 
+.whatido__skill {
+    padding-top: 120px;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
 .whatido__skill-list {
     list-style: none;
     padding: 0;
     margin: 0;
 }
 
+.whatido__skill--code {
+    background-image: url(../img/skill-code.png);
+}
+
+.whatido__skill--design {
+    background-image: url(../img/skill-design.png);
+}
+
+.whatido__skill--product {
+    background-image: url(../img/skill-product.png);
+}
 
